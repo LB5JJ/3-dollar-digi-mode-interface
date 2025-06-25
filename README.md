@@ -45,12 +45,12 @@ These are the parts I used for my build; pretty much everything except the CM108
 
 I know the solder joints look like shit - I was going for quick and functional, not prety!
 
-![](<build-00.png>)
+![](<build-00.jpg>)
 
-![](<build-01.png>)
+![](<build-01.jpg>)
 
-![](<build-02.png>)
+![](<build-02.jpg>)
 
-![](<build-03.png>)
+![](<build-03.jpg>)
 
-![](<build-04.png>)
+![](<build-04.jpg>)
