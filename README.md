@@ -2,7 +2,7 @@
 
 This is the companion repository the the Youtube video showing the build of the $3 digi-mode radio interface.
 
-[![](video-thumb.png)](https://youtu.be/xxx)
+[![](video-thumb.png)](https://youtu.be/leWaIvXLb58)
 
 ## Schematic
 
