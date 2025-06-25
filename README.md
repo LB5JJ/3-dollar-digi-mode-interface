@@ -1,6 +1,6 @@
 # Building the $3 DIGI-MODE Interface
 
-This is the companion repository the the Youtube video showing the build of the $3 digi-mode radio interface.
+This is the companion repository the the YouTube video showing the build of the $3 digi-mode radio interface.
 
 [![](video-thumb.png)](https://youtu.be/leWaIvXLb58)
 
