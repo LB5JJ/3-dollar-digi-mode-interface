@@ -43,7 +43,7 @@ These are the parts I used for my build; pretty much everything except the CM108
 
 ## Build Pictures
 
-I know the solder joints look like shit - I was going for quick and functional, not prety!
+I know the solder joints look like shit - I was going for quick and functional, not pretty!
 
 ![](<build-00.jpg>)
 
